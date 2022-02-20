@@ -1,4 +1,3 @@
-def hello_world_print():
-	print("Hello WOrld")
-	a = 100
-print_hello()
+def print_mno_hello():
+	print("Hello WOrld2")
+print_mno_hello()
